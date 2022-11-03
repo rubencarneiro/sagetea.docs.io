@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to SageTea Edge documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+We will try our best to guide on some howto's, and features avaible.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
