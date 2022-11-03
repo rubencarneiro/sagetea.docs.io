@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SageTea Edge'
+copyright = '2022-2023, Rúben Carneiro'
+author = 'Rúben Carneiro'
 
 release = '0.1'
 version = '0.1.0'
